@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: asdasda
 file: https://mbtest-2021-07-30ab.s3.amazonaws.com/gdrive_uploads/11-382-water-diplomacy-spring-2021/1oym6ZQzK-J59lrPnHeyTv2eW1lj_tDEC/jellie3local2.mp4
 file_type: video/mp4
 image_metadata:
@@ -8,7 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: jellie3local2.mp4
 uid: 18560ee8-bd6d-46db-b40d-28722dfa6125
