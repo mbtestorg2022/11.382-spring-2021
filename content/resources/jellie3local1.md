@@ -14,10 +14,10 @@ title: jellie3local1.mp4
 uid: 2d518085-e739-454e-824d-2638896f0e1c
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/sPV_F2LmBqI/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
-  youtube_id: ''
+  youtube_id: sPV_F2LmBqI
 ---
