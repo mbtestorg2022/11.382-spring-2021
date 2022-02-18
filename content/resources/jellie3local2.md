@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: asdasdaffff
+description: asdasdaffffffff
 file: https://mbtest-2021-07-30ab.s3.amazonaws.com/gdrive_uploads/11-382-water-diplomacy-spring-2021/1oym6ZQzK-J59lrPnHeyTv2eW1lj_tDEC/jellie3local2.mp4
 file_type: video/mp4
 image_metadata:
