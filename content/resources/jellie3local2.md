@@ -10,7 +10,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: a new title, wow
+title: a new title, wowwww
 uid: 18560ee8-bd6d-46db-b40d-28722dfa6125
 video_files:
   video_captions_file: ''
