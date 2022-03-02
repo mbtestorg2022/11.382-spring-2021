@@ -2,6 +2,8 @@
 content_type: page
 title: Syllabus
 uid: 8fbc95c7-eb9a-0ded-b0c9-021a5fb0bf03
+video_metadata:
+  youtube_id: null
 ---
 ## Course Meeting Times
 
