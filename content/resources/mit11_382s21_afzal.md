@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: Afzal case study
 uid: 1b7baf84-4e3d-5d65-b3bb-88d603ddcb21
+video_metadata:
+  youtube_id: null
 ---

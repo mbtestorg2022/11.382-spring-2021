@@ -2,6 +2,8 @@
 content_type: page
 title: Readings
 uid: 82960cb4-abdb-c683-77d5-9728754c344f
+video_metadata:
+  youtube_id: null
 ---
 
 For information on the order in which the readings listed below were assigned, see the [Calendar]({{< baseurl >}}/pages/calendar) page.

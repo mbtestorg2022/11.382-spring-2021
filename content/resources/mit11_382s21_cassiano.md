@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: Cassiano Case Study
 uid: 1aab20e5-68d6-984e-2c18-2071df124dc4
+video_metadata:
+  youtube_id: null
 ---

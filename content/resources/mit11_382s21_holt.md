@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: Holt Case Study
 uid: bb3df9c5-a46f-af68-4351-efc61bda397c
+video_metadata:
+  youtube_id: null
 ---

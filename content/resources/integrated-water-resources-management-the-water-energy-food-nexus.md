@@ -11,5 +11,5 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/uRJFjEXhOPw/default.jpg
   video_transcript_file: /courses/11-382-water-diplomacy-spring-2021/dfc4ceaa7a963d4112b80754bc91c83e_uRJFjEXhOPw.pdf
 video_metadata:
-  youtube_id: uRJFjEXhOPw
+  youtube_id: kAeDRfk6A9w
 ---

@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: 3play pdf file
 uid: c00ebdec-d5d1-46ba-3706-938c73c72292
+video_metadata:
+  youtube_id: null
 ---

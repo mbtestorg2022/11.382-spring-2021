@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: Klise Case Study
 uid: 80485514-953a-1f31-6f95-36bdaa35e38a
+video_metadata:
+  youtube_id: null
 ---

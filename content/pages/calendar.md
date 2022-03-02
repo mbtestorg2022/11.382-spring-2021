@@ -2,6 +2,8 @@
 content_type: page
 title: Calendar
 uid: 8362f5b1-ea90-385d-89b5-860742366818
+video_metadata:
+  youtube_id: null
 ---
 
 For full bibliographic details on the readings listed below, see the [Readings]({{< baseurl >}}/pages/readings) page.
