@@ -30,6 +30,15 @@ var foo = "something";
 
  
 
+````python
+```
+Deliberately trying to mess this up
+```
+print('hello
+````
+
+ 
+
 The demand for water continues to rise all over the world while supply remains relatively limited and increasingly uncertain due to climate change. If these trends continue, they could lead to greater conflict over water use. This course examines ways of resolving conflicts over the allocation of water resources, particularly transboundary waters. Graduate students and advanced undergraduates are welcome. The class is taught comparatively, that is, with constant reference to cases from around the world.
 
 This course is designed to raise student awareness of the state of freshwater resources globally and the need for more effective water governance. It builds on several case studies of transboundary water conflicts in different parts of the world while also helping students develop the negotiation and mediation skills they will need to resolve water disputes. During the course, students will participate in a role-play simulation ("Indopotamia") as a way of applying what they have learned about water governance and multiparty negotiation.
@@ -109,7 +118,7 @@ Final grades are based on a weighted average for the term. Grade cutoff points a
 - C = 73–76%
 - C- = 70–72%
 - D = 60–69%
-- F = \\\< 60%
+- F = \\\\\< 60%
 
 ## Academic Honesty
 
