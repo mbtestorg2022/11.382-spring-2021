@@ -1,9 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e5b98993-7502-62d1-d4ec-b7760924db51
-video_metadata:
-  youtube_id: null
 ---
 
 Short Memos
