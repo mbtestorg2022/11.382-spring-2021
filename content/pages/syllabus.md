@@ -13,7 +13,7 @@ Edit 2
 
  
 
-> This is a quote test: 4 \< 5 and 5 > 4.  \<testing>hi\</testing
+>     This is a quote test with leading quotes, okay? : 4 \< 5 and 5 > 4.  \<testing>hi\</testing>. whatever
 
  
 
@@ -101,7 +101,7 @@ V. Student Presentations
 
 Shafiqul Islam and Lawrence Susskind, _Water Diplomacy: A Negotiated Approach to Managing Complex Water Networks_, Resources for the Future (Routledge), 2012. ISBN: 9781617261039.
 
-Other assigned readings are listed on the \[Readings\]({{< baseurl >}}/pages/readings) page.
+Other assigned readings are listed on the \[Readings\]({{< baseurl >}}
 
 ## Assignments and Grading
 
@@ -128,7 +128,7 @@ Final grades are based on a weighted average for the term. Grade cutoff points a
 - C = 73–76%
 - C- = 70–72%
 - D = 60–69%
-- F = \\\\\\\\\\\\\< 60%
+- F = \\\\\\\\\\\\\\\< 60%
 
 ## Academic Honesty
 
