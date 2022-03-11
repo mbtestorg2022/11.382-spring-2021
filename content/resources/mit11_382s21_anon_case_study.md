@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e5b98993-7502-62d1-d4ec-b7760924db51
 resourcetype: Document
 title: anon case study
 uid: 635f627c-0ce1-dd46-1e41-539eea94aeb8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e5b98993-7502-62d1-d4ec-b7760924db51
 resourcetype: Document
 title: Holt Case Study
 uid: bb3df9c5-a46f-af68-4351-efc61bda397c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e5b98993-7502-62d1-d4ec-b7760924db51
 resourcetype: Document
 title: Klise Case Study
 uid: 80485514-953a-1f31-6f95-36bdaa35e38a
