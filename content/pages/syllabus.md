@@ -9,7 +9,7 @@ uid: 8fbc95c7-eb9a-0ded-b0c9-021a5fb0bf03
 
 Lectures: 1 session / week, 2 hours / session
 
-Edit 3
+Edit 2
 
 ## Prerequisites
 
@@ -120,7 +120,7 @@ Final grades are based on a weighted average for the term. Grade cutoff points a
 - C = 73–76%
 - C- = 70–72%
 - D = 60–69%
-- F = \\\\\\\\\\\\\< 60%
+- F = \\\\\\\\\\\< 60%
 
 ## Academic Honesty
 
