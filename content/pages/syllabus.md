@@ -11,6 +11,14 @@ Lectures: 1 session / week, 2 hours / session
 
 Edit 2
 
+ 
+
+> This is a quote test: 4 \< 5 and 5 > 4.  \<testing>hi\</testing
+
+ 
+
+ 
+
 ## Prerequisites
 
 None - edit 1
@@ -120,7 +128,7 @@ Final grades are based on a weighted average for the term. Grade cutoff points a
 - C = 73–76%
 - C- = 70–72%
 - D = 60–69%
-- F = \\\\\\\\\\\< 60%
+- F = \\\\\\\\\\\\\< 60%
 
 ## Academic Honesty
 
