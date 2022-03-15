@@ -1,17 +1,53 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8fbc95c7-eb9a-0ded-b0c9-021a5fb0bf03
 ---
 ## Course Meeting Times
 
-Lectures: 1 session / week, 2 hours / session2
+Lectures: 1 session / week, 2 hours / session
+
+Edit 2
+
+ 
+
+>     This is a quote test with leading quotes, okay? : 4 \< 5 and 5 > 4.  \<testing>hi\</testing>. whatever
+
+ 
+
+ 
 
 ## Prerequisites
 
-None
+None - edit 1
 
 ## Course Description
+
+ 
+
+```python
+userName = "Matt"
+print(f"This is a code block test {userName}")
+```
+
+ 
+
+```javascript
+var foo = "something";
+```
+
+ 
+
+````python
+```
+Deliberately trying to mess this up
+```
+print('hello
+````
+
+ 
 
 The demand for water continues to rise all over the world while supply remains relatively limited and increasingly uncertain due to climate change. If these trends continue, they could lead to greater conflict over water use. This course examines ways of resolving conflicts over the allocation of water resources, particularly transboundary waters. Graduate students and advanced undergraduates are welcome. The class is taught comparatively, that is, with constant reference to cases from around the world.
 
@@ -65,7 +101,7 @@ V. Student Presentations
 
 Shafiqul Islam and Lawrence Susskind, _Water Diplomacy: A Negotiated Approach to Managing Complex Water Networks_, Resources for the Future (Routledge), 2012. ISBN: 9781617261039.
 
-Other assigned readings are listed on the \[Readings\]({{< baseurl >}}/pages/readings) page.
+Other assigned readings are listed on the \[Readings\]({{< baseurl >}}
 
 ## Assignments and Grading
 
@@ -92,7 +128,7 @@ Final grades are based on a weighted average for the term. Grade cutoff points a
 - C = 73–76%
 - C- = 70–72%
 - D = 60–69%
-- F = \\\< 60%
+- F = \\\\\\\\\\\\\\\< 60%
 
 ## Academic Honesty
 
