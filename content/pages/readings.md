@@ -27,7 +27,7 @@ Gain, Animesh K., Carlo Giupponi, and Yoshihide Wada, 2016. ["Measuring Global W
 
 Gleick, Peter H., 1993. ["Water and Conflict: Fresh Water Resources and International Security" (PDF).](https://pacinst.org/wp-content/uploads/1993/06/international_security_gleick_1993-1.pdf) _International Security_ 18(1): 79–112.
 
-Global Water Partnership (GWP) and International Network of Basin Organizations (INBO), 2009. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Handbook for Integrated Water Resources Management in Basins" (PDF).](https://www.inbo-news.org/IMG/pdf/GWP-INBOHandbookForIWRMinBasins.pdf) GWP/INBO. ISBN: 9789185321728.
+Global Water Partnership (GWP) and International Network of Basin Organizations (INBO), 2009. ["A Handbook for Integrated Water Resources Management in Basins" (PDF).](https://www.inbo-news.org/IMG/pdf/GWP-INBOHandbookForIWRMinBasins.pdf) GWP/INBO. ISBN: 9789185321728.
 
 Grey, David, and Claudia W. Sadoff, 2007. ["Sink or Swim? Water Security for Growth and Development."](https://iwaponline.com/wp/article-abstract/9/6/545/31241/Sink-or-Swim-Water-security-for-growth-and?redirectedFrom=fulltext) _Water Policy_ 9: 545–71.
 
