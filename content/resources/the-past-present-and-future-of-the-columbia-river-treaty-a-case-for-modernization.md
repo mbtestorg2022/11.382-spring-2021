@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'The Past, Present and Future of the Columbia River Treaty: A Case for Modernization'
 uid: 199447dd-e48b-4a2e-c0a3-85a41b0a16b0
 video_files:

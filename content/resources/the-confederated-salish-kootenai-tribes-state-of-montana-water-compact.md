@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: The Confederated Salish-Kootenai Tribes - State of Montana Water Compact
 uid: 306236ad-6ad9-4f6a-be9e-af4e5ba807b1
 video_files:
